@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    },
+    "minimum-stability": "stable",
+    "scripts": {
+        "post-install-cmd": [
+            "echo 'Dependências instaladas com sucesso!'"
+        ]
+    }
+}
