@@ -1,4 +1,4 @@
-# projetoTopicos
+![image](https://github.com/user-attachments/assets/bb5d5faa-6f11-4e73-950d-c057a6258b60)# projetoTopicos
 
 # AUTORES 
 Larissa Correa de Matos e Letícia Padilha Câmara
@@ -25,7 +25,9 @@ biblioteca-web/
 └── livros.php            # Página para exibição de livros
 
 # IMAGEM DA CONSTRUÇÃO DO BANCO
-![alt text](imagensREADME/image.png)
+![image](https://github.com/user-attachments/assets/80280490-0df5-4c78-bd23-c5ee93b694b1)
+
+
 
 # INSTALAÇÃO DO COMPOSER 
 composer install: Instala as dependências do projeto definidas no composer.json.
