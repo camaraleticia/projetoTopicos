@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb5d5faa-6f11-4e73-950d-c057a6258b60)# projetoTopicos
+# projetoTopicos
 
 # AUTORES 
 Larissa Correa de Matos e Letícia Padilha Câmara
